@@ -8,11 +8,8 @@ GreenLexicon is a comprehensive platform designed to promote sustainability and 
 
 ## Recognization and Awards
 
-My team, Mavericks, consisting of myself, [Guna Palanivel](https://www.linkedin.com/in/guna-palanivel/), along with my teammates [Gokul Selvaraj](https://www.linkedin.com/in/gokulselvaraj4/), [Rakshitha S](https://www.linkedin.com/in/rakshitha-selladurai/), and [Bharani V](https://www.linkedin.com/in/bharani-v-20720b276/) participated in the SustainaVerse: Coding a Sustainable Universe held at [B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu](https://crescent.education/), Chennai on 16/04/2024 to 17/04/2024. And guess what? We clinched the 1st prize, along with a cool cash prize of INR 5000 Via cheque, presented by Dr. Karthikeyan Ramalingam, Dean of Student Affairs.
-
+My team, Mavericks, 
 ## To Know More About Our Project
-
-Please find the LinkedIn post [here.](https://www.linkedin.com/posts/guna-palanivel_sustainability-greentech-dataanalytics-activity-7197289980191285249-uGzt?utm_source=share&utm_medium=member_desktop)
 
 ## Key Features
 
@@ -50,7 +47,7 @@ Please find the LinkedIn post [here.](https://www.linkedin.com/posts/guna-palani
 ## Quick Links
 
 - [Live Website](https://green-lexicon.vercel.app/)
-- [Main GitHub Repository](https://github.com/GunaPalanivel/GreenLexicon.git)
+- [Main GitHub Repository](https://github.com/Ruthika/GreenLexicon.git)
 - [Image Detection Custom Model (Google Colab)]()
 - [NLP Sustainability Model (BERT) Google Colab]()
 - [Project Image Gallery](https://green-lexicon-image-gallery.vercel.app/)
@@ -59,7 +56,7 @@ Please find the LinkedIn post [here.](https://www.linkedin.com/posts/guna-palani
 
 1. Clone the repository:
    ```shell
-   https://github.com/GunaPalanivel/GreenLexicon.git
+   https://github.com/Ruthika/GreenLexicon.git
    ```
    ```shell
    cd GreenLexicon
@@ -84,6 +81,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/GunaPalanivel/GreenLexicon/blob/main/LICENSE) file for more details.
